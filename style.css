@@ -518,3 +518,33 @@ body.dark-mode input:focus,
 body.dark-mode textarea:focus {
   box-shadow: 0 0 8px rgba(51, 153, 255, 0.8);
 }
+
+body.dark-mode .contact-right label{
+  color: white;
+}
+
+
+body.dark-mode .about{
+background: #000;
+color: white;
+}
+body.dark-mode .about h3{
+color: white;
+}
+body.dark-mode .myproject{
+    background-image: linear-gradient(to right, #000, #001a33, #002b5c);
+
+}
+body.dark-mode .mycontact{
+background-color: #000;
+}
+body.dark-mode .mycontact p{
+  color: white;
+}
+body.dark-mode .mycontact span{
+  color: white;
+}
+body.dark-mode .contact-left a{
+  color: white;
+}
+
